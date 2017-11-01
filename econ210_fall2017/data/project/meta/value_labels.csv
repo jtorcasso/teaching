@@ -1,0 +1,96 @@
+variable,values,labels
+health,1,Excellent
+health,2,Very good
+health,3,Good
+health,4,Fair
+health,5,Poor
+region,1,Northeast
+region,2,North Central
+region,3,South
+region,4,West
+region,5,Alaska/Hawaii
+region,6,Foreign
+state,1,Alabama
+state,2,Arizona
+state,3,Arkansas
+state,4,California
+state,5,Colorado
+state,6,Connecticut
+state,7,Delaware
+state,8,District of Columbia
+state,9,Florida
+state,10,Georgia
+state,11,Idaho
+state,12,Illinois
+state,13,Indiana
+state,14,Iowa
+state,15,Kansas
+state,16,Kentucky
+state,17,Louisiana
+state,18,Maine
+state,19,Maryland
+state,20,Massachusetts
+state,21,Michigan
+state,22,Minnesota
+state,23,Mississippi
+state,24,Missouri
+state,25,Montana
+state,26,Nebraska
+state,27,Nevada
+state,28,New Hampshire
+state,29,New Jersey
+state,30,New Mexico
+state,31,New York
+state,32,North Carolina
+state,33,North Dakota
+state,34,Ohio
+state,35,Oklahoma
+state,36,Oregon
+state,37,Pennsylvania
+state,38,Rhode Island
+state,39,South Carolina
+state,40,South Dakota
+state,41,Tennessee
+state,42,Texas
+state,43,Utah
+state,44,Vermont
+state,45,Virginia
+state,46,Washington
+state,47,West Virginia
+state,48,Wisconsin
+state,49,Wyoming
+state,50,Alaska
+state,51,Hawaii
+occ,11,"Agriculture, forestry and fishing"
+occ,21,Mining and extraction
+occ,30,Metal industries
+occ,31,"Machinery, including electrical"
+occ,32,Motor vehicles and other transportation equipment
+occ,33,Other durables
+occ,34,"Durables, NA what"
+occ,40,Food and kindred products
+occ,41,Tobacco manufacturing
+occ,42,"Textile mill products, apparel and other fabricated textile products, e.g. shoes"
+occ,43,Paper and allied products
+occ,44,"Chemical and allied products, petroleum and coal products, rubber and plastics"
+occ,45,Other nondurables
+occ,46,"Nondurables, NA what"
+occ,49,"Manufacturing, NA whether durable or nondurable"
+occ,51,Construction
+occ,55,Transportation
+occ,56,Communication
+occ,57,Other public utilities
+occ,61,Retail trade
+occ,62,Wholesale trade
+occ,69,"Trade, NA whether wholesale or retail"
+occ,71,"Finance, insurance, and real estate"
+occ,81,Repair service
+occ,82,Business services
+occ,83,Personal services
+occ,84,"Amusement, recreation and related services"
+occ,85,"Printing, publishing and allied services"
+occ,86,"Medical, dental and health services"
+occ,87,Education services
+occ,88,Professional or related services
+occ,91,Armed services
+occ,92,Government

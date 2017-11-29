@@ -1,0 +1,85 @@
+relhead:
+
+	0 "Lation/Immigrant Sample, main-family/mover-out nonresponse, born moved in later" ///
+	1 "Head" 2 "Wife" 3 "Son/Daughter" 4 "Sibling of Head" 5 "Parent of Head" ///
+	6 "(Great) Grandchild" 7 "Other Relative" 8 "Nonrelative" 9 "Husband of Head"
+
+marital:
+
+	1 "Married" 2 "Single" 3 "Widowed" 4 "Divorced" 5 "Separated"
+
+race:
+
+	1 "White" 2 "Black" 3 "Other"
+
+region:
+
+	1 "Northeast" 2 "North Central" 3 "South" 4 "West" 5 "Alaska/Hawaii" 6 "Foreign Country"
+
+edu_cat:
+
+	1 "0-5 grades, or DK and cannot read/write" 2 "6-8 grades, grade school, or DK and can read/write" ///
+	3 "9-11, or some high school" 4 "12 grades, or high school" 5 "12 grades plus non-academic training" ///
+	6 "College, no degree" 7 "College degree, no advanced degree mentioned" 8 "College, advanced or professional degree"
+
+employA:
+
+	1 "Working now, or laid off temporarily" 2 "Unemployed" 3 "Retired, permanently disabled" ///
+						4 "Housewife" 5 "Student" 6 "Other"
+
+employB:
+
+	1 "Working now" 2 "Temporary Leave" 3 "Unemployed, looking for work" ///
+						4 "Retired" 5 "Disabled" 6 "Keeping house" 7 "Student" 8 "Other"
+
+occ:
+
+	11 "Agriculture, forestry and fishing" 21 "Mining and extraction" ///
+	30 "Metal industries" 31 "Machinery, including electrical" ///
+	32 "Motor vehicles and other transportation equipment" ///
+	33 "Other durables" 34 "Durables, NA what" 40 "Food and kindred products" ///
+	41 "Tobacco manufacturing" ///
+	42 "Textile mill products, apparel and other fabricated textile products, e.g. shoes" ///
+	43 "Paper and allied products" ///
+	44 "Chemical and allied products, petroleum and coal products, rubber and plastics" ///
+	45 "Other nondurables" 46 "Nondurables, NA what" ///
+	49 "Manufacturing, NA whether durable or nondurable" ///
+	51 "Construction" 55 "Transportation" 56 "Communication" ///
+	57 "Other public utilities" 61 "Retail trade" 62 "Wholesale trade" ///
+	69 "Trade, NA whether wholesale or retail" 71 "Finance, insurance, and real estate" ///
+	81 "Repair service" 82 "Business services" 83 "Personal services" ///
+	84 "Amusement, recreation and related services" 85 "Printing, publishing and allied services" ///
+	86 "Medical, dental and health services" 87 "Education services" ///
+	88 "Professional or related services" 91 "Armed services" 92 "Government"
+
+health:
+
+	1 "Excellent" 2 "Very good" 3 "Good" 4 "Fair" 5 "Poor"
+
+med11:
+
+	1 "Seizures" 2 "Bone disorder, arthritis, scoliosis, joint disorder" ///
+	3 "Kidney disease" 4 "Coronary problem" 5 "Anemia" 6 "Allergies" ///
+	7 "Autoimmune disorder" 8 "Nerve disorder, or Parkinson's" 9 "Thyroid" ///
+	10 "Inflammation, infection, MS, sarcoidosis, eczema" 20 "Eye/ear problems" ///
+	21 "Fibromyalgia, chronic fatigue syndrome" 22 "Circulatory/blood problems" ///
+	23 "Sleep disorders" 24 "Migraines, chronic headaches" 25 "High Cholesterol" ///
+	26 "Digestive disorders, gastrointestinal disease" 97 "Other"
+
+med14:
+
+	1 "1 year or less" 2 "2-4 years" 3 "5-7 years" 4 "8+ years"
+
+state:
+
+	1 "Alabama" 2 "Arizona" 3 "Arkansas" 4 "California" 5 "Colorado" ///
+	6 "Connecticut" 7 "Delaware" 8 "District of Columbia" 9 "Florida" ///
+	10 "Georgia" 11 "Idaho" 12 "Illinois" 13 "Indiana" 14 "Iowa" 15 "Kansas" ///
+	16 "Kentucky" 17 "Louisiana" 18 "Maine" 19 "Maryland" 20 "Massachusetts" ///
+	21 "Michigan" 22 "Minnesota" 23 "Mississippi" 24 "Missouri" 25 "Montana" ///
+	26 "Nebraska" 27 "Nevada" 28 "New Hampshire" 29 "New Jersey" 30 "New Mexico" ///
+	31 "New York" 32 "North Carolina" 33 "North Dakota" 34 "Ohio" 35 "Oklahoma" ///
+	36 "Oregon" 37 "Pennsylvania" 38 "Rhode Island" 39 "South Carolina" ///
+	40 "South Dakota" 41 "Tennessee" 42 "Texas" 43 "Utah" 44 "Vermont" ///
+	45 "Virginia" 46 "Washington" 47 "West Virginia" 48 "Wisconsin" 49 "Wyoming" ///
+	50 "Alaska" 51 "Hawaii" 
